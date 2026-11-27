@@ -1,0 +1,19 @@
+vi-luong-business-android/
+├── .github/
+│   └── workflows/
+│       └── android-build.yml
+├── gradle/
+│   └── libs.versions.toml
+├── gradle.properties
+├── settings.gradle.kts
+├── build.gradle.kts
+└── app/
+    ├── build.gradle.kts
+    └── src/
+        └── main/
+            ├── AndroidManifest.xml
+            └── java/
+                └── com/
+                    └── viluong/
+                        └── business/
+                            └── MainActivity.kt
